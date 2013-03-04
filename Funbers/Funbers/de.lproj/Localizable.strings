@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Funbers
+
+  Created by Tamas Bara on 27.02.13.
+  Copyright (c) 2013 SnoozeSoft. All rights reserved.
+*/
+"More" = "Mehr";
+"How" = "So geht´s";
+"Themes" = "Themes";
+"Tell" = "Weitersagen";
+"New" = "Neues Spiel";
+"Mail" = "Probier unbedingt dieses Spiel!";
+"HowDetail" = "Berühre das dunkle Rechteck um das Spiel zu starten. Falls du mit einem anderen Rechteck starten willst kannst du es selbst auswählen.\n\nNach dem Start tauchen mehr dunkle Rechtecke auf. Diese zeigen dir wo du die nächste Nummer platzieren kannst. Das Ziel ist es alle Rechtecke zu füllen.";

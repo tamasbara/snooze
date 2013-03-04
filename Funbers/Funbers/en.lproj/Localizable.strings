@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Funbers
+
+  Created by Tamas Bara on 27.02.13.
+  Copyright (c) 2013 SnoozeSoft. All rights reserved.
+*/
+"More" = "More";
+"How" = "How to play";
+"Themes" = "Themes";
+"Tell" = "Tell a friend";
+"New" = "New Game";
+"Mail" = "Try this game!";
+"HowDetail" = "Click the dark square to start. If you want to start with a different square than the top left one you can click any other square.\n\nNow more dark squares will appear. These are your options for placing the next number. The goal of the game is to fill all squares with numbers.";
